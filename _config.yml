@@ -15,10 +15,11 @@ author: Cyrille NOVOU
 
 navbar-links:
   Qui suis je: "qui-est-cyrille-novou"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://cyrillenovou.com"
+#  Le Blog: "blog"
+#  Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
+ # Author's home: "https://cyrillenovou.com"
 
 # --- Logo --- #
 
@@ -71,7 +72,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
+  instagram: true
   facebook: true
   linkedin: true
   vk: false
