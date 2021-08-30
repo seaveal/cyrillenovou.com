@@ -14,11 +14,11 @@ author: Cyrille NOVOU
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Qui suis je: "aboutme"
+  Qui suis je: "qui-est-cyrille-novou"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://cyrillenovou.com"
 
 # --- Logo --- #
 
